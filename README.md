@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+A software developer, programmer for fun and a lover of entrepreneurship!
+
 <!--
 **hw534/hw534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
