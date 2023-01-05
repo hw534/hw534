@@ -5,8 +5,7 @@ I'm software developer, programmer for fun and a lover of entrepreneurship!
 
 
 🔭 I’m currently working on:
-- SwordCraftOnline Website
-- DimensionDraw Bot
+- 
 
 🌱 I’m currently learning:
 - C#
