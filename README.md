@@ -9,13 +9,11 @@ I'm software developer, programmer for fun and a lover of entrepreneurship!
 
 🌱 I’m currently learning:
 - C#
-- Docker
 - ASP.NET
-- Java
-- TypeScript
-- React
-- Redux
-- Git
+- NodeJs
+- C++
+- Unity
+- Blender
 
 
 ⚡ Fun fact:
