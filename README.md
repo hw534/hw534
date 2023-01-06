@@ -17,6 +17,9 @@ I work making programs that solve problems in my life as a programmer and also c
 - C++
 - Unity
 - Blender
+- Laravel
+- Express
+- React.js & React Native
 
 
 ⚡ Fun fact:
