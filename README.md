@@ -7,6 +7,7 @@ I work making programs that solve problems in my life as a programmer and also c
 
 🔭 I’m currently working on:
 - GeoEvents: GeoEvents is an events platform, where you can create, edit, search for various events around the world or in your country or community.
+- Sword Craft Online Website: SCO(Sword Craft Online) is a MMORPG style Minecraft server inspired by the Sword Art Online series.
 
 🌱 I’m currently learning:
 - C#
